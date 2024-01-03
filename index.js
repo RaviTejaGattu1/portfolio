@@ -9930,7 +9930,7 @@ function cp() {
         })]
     })
 }
-const fp = "/assets/gradient-625d94e6.webp";
+const fp = "gradient-625d94e6.webp";
 function dp() {
     return v.jsxs("svg", {
         className: "hero-stars",
