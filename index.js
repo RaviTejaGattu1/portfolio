@@ -9360,6 +9360,8 @@ const Kd = "modulepreload"
         name: "Work"
     }, {
         name: "Writings"
+    }, {
+        name: "Chat"
     }]
 };
 function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, projectsRef: l, writingsRef: i}) {
