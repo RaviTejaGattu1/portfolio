@@ -9360,8 +9360,6 @@ const Kd = "modulepreload"
         name: "Work"
     }, {
         name: "Writings"
-    }, {
-        name: "Chat"
     }]
 };
 function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, projectsRef: l, writingsRef: i}) {
@@ -10514,7 +10512,7 @@ const Lp = ({children: e, custom: t, initial: n=!0, onExitComplete: r, exitBefor
     ),
     P.createElement(P.Fragment, null, p.size ? h : h.map(a=>P.cloneElement(a)))
 }
-  , Tp = He.lazy(()=>Gd(()=>import("chatbot.js"), ["chatbot.js", "chatbot.css"]));
+  , Tp = He.lazy(()=>Gd(()=>import("./chatbot.js"), ["assets/chatbot.js", "assets/chatbot.css"]));
 function Rp() {
     const [e,t] = P.useState(!1)
       , n = P.useRef(null)
