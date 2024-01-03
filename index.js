@@ -9494,7 +9494,7 @@ function bd() {
 const ep = {
     title: "Writings",
     writings: [{
-        url: "https://mirayatech.hashnode.dev/cache-simplified-your-devices-trusted-ally",
+        url: "https://www.hashnode.dev/cache-simplified-your-devices-trusted-ally",
         title: "Cache Simplified: Your Device's Trusted Ally",
         subtitle: "Uncover How Cache Speeds Up Your Computer and Its Different Types and Quirks",
         date: "Oct 24, 2023",
@@ -10166,9 +10166,9 @@ function pp() {
             children: [v.jsxs("h1", {
                 className: "hero-wrapper-title",
                 children: [v.jsx("span", {
-                    children: "Hello. I'm Miraya."
+                    children: "Hello. I'm Ravi Teja."
                 }), v.jsx("span", {
-                    children: "A Digital Craftswoman."
+                    children: "A Digital Craftsman."
                 })]
             }), v.jsx("p", {
                 className: "hero-wrapper-description",
