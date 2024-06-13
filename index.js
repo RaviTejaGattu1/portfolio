@@ -9542,7 +9542,7 @@ function tp() {
         className: "writings-container",
         children: [v.jsx("h2", {
             className: "writings-headline",
-            children: "Some of my writings"
+            children: "My Certifications"
         }), v.jsx("div", {
             className: "writings-cards-container",
             children: ep.writings.map(e=>v.jsxs("a", {
