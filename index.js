@@ -9411,27 +9411,16 @@ const dc = {
     title: "About",
     description: A passionate software engineer with 5 years of experience in full-stack development, cloud technologies, client-server protocol & API design. I have successfully delivered scalable and secure solutions for high-revenue enterprises, enhancing user experience and driving significant growth. Currently pursuing Master of Science in Computer Software Engineering at San Jose State University. I am eager to leverage my skills and experience to contribute to innovative and impactful projects.",
     experiences: [{
-        url:"https://www.deloittedigital.com/us/en.html",
-        date: "2022 - 2023",
-        title: "Deloitte Digital",
-        role: "Software Engineer",
-        description: "Energy Management Software for Large Commercial Services : Led the design and development of a B2B enterprise application for a major US energy client, empowering fleet electrification, uninterrupted healthcare support, and industrial machinery management. Spearheaded end-to-end development using AngularJS and NodeJS, incorporating client-server protocol and API design skills to enhance user experience and drive significant revenue growth. Implemented CI/CD pipelines, secure authentication mechanisms, and optimized data extraction techniques to deliver a robust, scalable, and high-performing solution",
-        technologies: ["Angular.js", "Express", "ContentStack", ""Next.js", "React Native", "TypeScript", "GraphQL", "Nest.js", "REST", "Python"]
+        date: "Aug 2022 - Present",
+        title: "Title",
+        description: "Description",
+        technologies: ["Next.js", "React Native", "TypeScript", "GraphQL", "Nest.js", "REST", "Python"]
     }, {
-        url:"https://developer.amazon.com/",
-        date: "2019 - 2020",
-        title: "Amazon Development Centre",
-        role:"Data Quality Analyst",
-        description: "Analyzed e-commerce data to provide critical insights for business growth and improve customer experience. Optimized legacy query scripts, reducing processing times by 65%, and developed an internal application to automate KPI tracking and visualization, saving 780 hours annually. Collaborated with cross-functional teams to ensure data accuracy and drive operational efficiency",
-        technologies: ["Python", "R","SQL", "AWS", "ETL", "RedShift", "Data Analysis & Visualization", "KPI", "Automation"]
-    }, {
-        url:"https://www.netcracker.com/",
-        date: "2016 - 2019",
-        title: "NetCracker Technologies Pvt Ltd",
-        role: "Software Engineer",
-        description: "Developed and implemented web applications using HTML/CSS, Servlets, and RESTful APIs to enhance system scalability. Delivered over 50 custom solutions for clients with user bases ranging from 9M to 70M, improving system functionality and reliability. Conducted technical analyses and implemented critical patches, reducing downtime by 15% and ensuring SLA adherence. Designed custom RBM components using C++ and Perl, complying with geographic tax regulations and client requirements. Analyzed root causes and delivered fixes for over 200 issues, supporting system migrations and integrations for major clients.",
-        technologies: ["Java", "HTML","CSS","C++","RESTful API", "SQL", "PL/SQL","Perl"]
-}],
+        date: "Nov 2022 - Aug 2023",
+        title: "Check24 GmbH - Frontend Developer",
+        description: "Worked with the product team to develop new features for a vacation accommodation booking platform. I also ensured that the platform works smoothly on different devices. I used BrowserStack to recreate mobile environments and gain valuable insights for the development process. Additionally, I used Pact to create API contracts with mock data, making testing and development more efficient. I had experience working in a Kanban environment.",
+        technologies: ["Next.js", "TypeScript", "SCSS", "Styled Components", "Pact", "Storybook", "Ladle"]
+    }],
     skills: ["C++", "Python", "Java", "Javascript", "TypeScript", "HTML", "CSS", "SQL","MongoDB", "DynamoDB", "MySQL", "OracleDB", "HTML5", "Express", "React.js", "Node.js", "REST API", "Django", "Angular.js", "AWS", "Docker", "GCP", "Kubernetes", "Apache Kafka", "Visual Studio", "Eclipse", "Postman", "Git", "JMeter", "Mocha", "JUnit", "Git", "Docker", "Google Cloud Platform", "Maven/Gradle", "Grafana", "Kibana", "Splunk"]
 };
 function Jd() {
