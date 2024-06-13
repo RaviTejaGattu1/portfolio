@@ -9409,26 +9409,28 @@ function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, proj
 }
 const dc = {
     title: "About",
-    description: "I'm a 21 year old developer living in Germany. I discovered my passion for coding after seeing my brother do it. I fell in love with using my creativity to build things for the web. Through persistence, self-discipline, and commitment, I achieved my goal of becoming a frontend developer. What kept me on this journey is that I always find learning new things exciting and facing unfamiliar challenges. In addition to coding, I enjoy building side projects because it allows me to explore my creativity and accomplish exciting things.",
+    description: "I'm a software developer with a strong foundation in business-oriented, product-thinking approaches. My journey into coding wasn't just a fascination with technology; it stemmed from a desire to merge my business acumen with software development expertise. Equipped with an MBA specializing in Software Product & Project Management, I bring a unique blend of strategic insight and technical prowess to every project.
+                  With 5 years of hands-on experience in software development, I've honed my skills in crafting solutions that not only meet technical requirements but also align closely with business objectives. Currently pursuing a Masters in Computer Software Engineering at San Jose State University. I'm dedicated to further refining my abilities and staying at the forefront of technological advancements.
+                  What drives me forward is the thrill of tackling novel challenges and continually expanding my knowledge base. I thrive in environments where creativity is encouraged, and problem-solving is a daily occurrence. Beyond coding, I find joy in building side projects that allow me to explore unconventional ideas and push the boundaries of innovation.",
     experiences: [{
-        url: "https://knk.de/",
-        date: "March 2024 - Present",
-        title: "knk Group",
-        role: "Mid-Level Frontend Developer",
+        url: "https://www.deloittedigital.com/",
+        date: "2022 - 2023",
+        title: "Deloitte Digital",
+        role: "Software Engineer",
         description: "As the only frontend developer, I handle everything from starting a project to getting it out to our customers. I collaborate with backend colleagues to design how the front and back parts of our websites should work together. I put myself in the shoes of the users, from sketching features to testing before delivery. I don't just care about aesthetics, but more importantly that things are simple for our users.",
         technologies: ["React", "TypeScript", "Chakra-UI", "GitHub"]
     }, {
-        url: "https://www.viind.com/",
-        date: "Sep 2023 - Feb 2024",
-        title: "Viind GmbH",
-        role: "Junior Fullstack Developer",
+        url: "https://developer.amazon.com/",
+        date: "2019 - 2020",
+        title: "Amazon Development Centre",
+        role: "Data Quality Engineer",
         description: "Worked on developing chatbot solutions to help digitize societies around the world, using AI technologies such as ChatGPT to enhance services in cities. I focused on creating user interfaces and backend APIs, utilizing a range of technologies with the goal of contributing to global digital transformation. To ensure our platforms were strong and worked well, I implemented comprehensive testing with Cypress. I also used Insomnia for effective API testing, which helped make our development process smoother and our products more reliable. Experienced in Scrum, I effectively managed tasks and collaborated with the team to meet our goals.",
         technologies: ["Next.js", "React Native", "TypeScript", "GraphQL", "Nest.js", "Insomnia", "REST", "Python"]
     }, {
-        url: "https://www.check24.de/",
-        date: "Nov 2022 - Aug 2023",
-        title: "Check24 GmbH ",
-        role: "Junior Frontend Developer",
+        url: "https://www.netcracker.com/",
+        date: "2016 - 2019",
+        title: "NetCracker Technology Pvt Ltd",
+        role: "Software Engineer",
         description: "Worked with the product team to develop new features for a vacation accommodation booking platform. I also ensured that the platform works smoothly on different devices. I used BrowserStack to recreate mobile environments and gain valuable insights for the development process. Additionally, I used Pact to create API contracts with mock data, making testing and development more efficient. I had experience working in a Kanban environment.",
         technologies: ["Next.js", "TypeScript", "SCSS", "Styled Components", "Pact", "Storybook", "Ladle"]
     }],
