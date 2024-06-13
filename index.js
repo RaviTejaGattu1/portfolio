@@ -9355,12 +9355,10 @@ const Kd = "modulepreload"
     navigator: [{
         name: "Home"
     }, {
-        name: "About"
+        name: "Experience"
     }, {
-        name: "Work"
-    }, {
-        name: "Writings"
-    }]
+        name: "Certifications"
+    } ]
 };
 function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, projectsRef: l, writingsRef: i}) {
     const [o,u] = P.useState(!1)
