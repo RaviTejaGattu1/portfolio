@@ -9492,7 +9492,7 @@ function bd() {
     })
 }
 const ep = {
-    title: "Writings",
+    title: "Certifications",
     writings: [{
         url: "https://www.hashnode.dev/cache-simplified-your-devices-trusted-ally",
         title: "Cache Simplified: Your Device's Trusted Ally",
