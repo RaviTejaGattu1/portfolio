@@ -10168,11 +10168,11 @@ function pp() {
                 children: [v.jsx("span", {
                     children: "Hello. I'm Ravi Teja."
                 }), v.jsx("span", {
-                    children: "A Digital Craftsman."
+                    children: "Software Engineer"
                 })]
             }), v.jsx("p", {
                 className: "hero-wrapper-description",
-                children: "I'm passionate about creating experiences that are easy to use, accessible, and that meet the user's needs."
+                children: "Creating impactful software products for enterprises"
             })]
         })]
     })
