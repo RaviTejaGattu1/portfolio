@@ -9411,8 +9411,8 @@ const dc = {
     title: "About",
     description: "A passionate engineer curious about how software systems work, with 5 years of experience in building scalable services, leveraging various technologies and cloud platforms. I thrive on learning by doing cool projects and delivering impactful solutions.",
     experiences: [{
-        date: "Aug 2022 - Present",
-        title: "Title",
+        date: "2022 - 2023",
+        title: "Software Engineer, Deloitte Digital",
         description: "Description",
         technologies: ["Next.js", "React Native", "TypeScript", "GraphQL", "Nest.js", "REST", "Python"]
     }, {
