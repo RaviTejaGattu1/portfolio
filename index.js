@@ -9409,19 +9409,30 @@ function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, proj
 }
 const dc = {
     title: "About",
-    description: "A passionate engineer curious about how software systems work, with 5 years of experience in building scalable services, leveraging various technologies and cloud platforms. I thrive on learning by doing cool projects and delivering impactful solutions.",
+    description: "I'm a 21 year old developer living in Germany. I discovered my passion for coding after seeing my brother do it. I fell in love with using my creativity to build things for the web. Through persistence, self-discipline, and commitment, I achieved my goal of becoming a frontend developer. What kept me on this journey is that I always find learning new things exciting and facing unfamiliar challenges. In addition to coding, I enjoy building side projects because it allows me to explore my creativity and accomplish exciting things.",
     experiences: [{
-        date: "2022 - 2023",
-        title: "Software Engineer, Deloitte Digital",
-        description: "Description",
-        technologies: ["Next.js", "React Native", "TypeScript", "GraphQL", "Nest.js", "REST", "Python"]
+        url: "https://knk.de/",
+        date: "March 2024 - Present",
+        title: "knk Group",
+        role: "Mid-Level Frontend Developer",
+        description: "As the only frontend developer, I handle everything from starting a project to getting it out to our customers. I collaborate with backend colleagues to design how the front and back parts of our websites should work together. I put myself in the shoes of the users, from sketching features to testing before delivery. I don't just care about aesthetics, but more importantly that things are simple for our users.",
+        technologies: ["React", "TypeScript", "Chakra-UI", "GitHub"]
     }, {
+        url: "https://www.viind.com/",
+        date: "Sep 2023 - Feb 2024",
+        title: "Viind GmbH",
+        role: "Junior Fullstack Developer",
+        description: "Worked on developing chatbot solutions to help digitize societies around the world, using AI technologies such as ChatGPT to enhance services in cities. I focused on creating user interfaces and backend APIs, utilizing a range of technologies with the goal of contributing to global digital transformation. To ensure our platforms were strong and worked well, I implemented comprehensive testing with Cypress. I also used Insomnia for effective API testing, which helped make our development process smoother and our products more reliable. Experienced in Scrum, I effectively managed tasks and collaborated with the team to meet our goals.",
+        technologies: ["Next.js", "React Native", "TypeScript", "GraphQL", "Nest.js", "Insomnia", "REST", "Python"]
+    }, {
+        url: "https://www.check24.de/",
         date: "Nov 2022 - Aug 2023",
-        title: "Check24 GmbH - Frontend Developer",
+        title: "Check24 GmbH ",
+        role: "Junior Frontend Developer",
         description: "Worked with the product team to develop new features for a vacation accommodation booking platform. I also ensured that the platform works smoothly on different devices. I used BrowserStack to recreate mobile environments and gain valuable insights for the development process. Additionally, I used Pact to create API contracts with mock data, making testing and development more efficient. I had experience working in a Kanban environment.",
         technologies: ["Next.js", "TypeScript", "SCSS", "Styled Components", "Pact", "Storybook", "Ladle"]
     }],
-    skills: ["C++", "Python", "Java", "Javascript", "TypeScript", "HTML", "CSS", "SQL","MongoDB", "DynamoDB", "MySQL", "OracleDB", "HTML5", "Express", "React.js", "Node.js", "REST API", "Django", "Angular.js", "AWS", "Docker", "GCP", "Kubernetes", "Apache Kafka", "Visual Studio", "Eclipse", "Postman", "Git", "JMeter", "Mocha", "JUnit", "Git", "Docker", "Google Cloud Platform", "Maven/Gradle", "Grafana", "Kibana", "Splunk"]
+    skills: ["React", "React Native", "Next.js", "JavaScript", "TypeScript", "HTML", "CSS", "Sass", "Tailwind", "Material-UI", "Git", "Framer-Motion", "Firebase", "Cypress", "Playwright", "Storybook", "Styled-Components", "Zustand", "GraphQL", "GitLab", "Web Accessibility", "Nest.js", "Postman", "Insomnia", "Scrum", "Figma"]
 };
 function Jd() {
     return v.jsxs("div", {
