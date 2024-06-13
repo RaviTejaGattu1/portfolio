@@ -9916,7 +9916,7 @@ function cp() {
         }), v.jsxs("div", {
             className: "footer-social",
             children: [v.jsx("a", {
-                href: "https://www.linkedin.com/in/ravitejagattu",
+                href: "https://www.linkedin.com/in/iravitejag/",
                 target: "_blank",
                 children: v.jsx(up, {})
             }), v.jsx("a", {
