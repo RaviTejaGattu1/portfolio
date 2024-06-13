@@ -9402,7 +9402,7 @@ function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, proj
                 className: "nav-links-item contact",
                 children: "Chat"
             }), v.jsx("div", {
-                className: `nav-slider ${s === 0 ? "Home" : s === 1 ? "About" : s === 2 ? "Work" : s === 3 && "Writings"}`
+                className: `nav-slider ${s === 0 ? "Home" : s === 1 ? "About" : s === 2 ? "Work" : s === 3 && "Certifications"}`
             })]
         })
     })
