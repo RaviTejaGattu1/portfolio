@@ -9469,14 +9469,6 @@ function bd() {
         children: [v.jsx("h1", {
             className: "about-title",
             children: e
-        }), v.jsxs("p", {
-            className: "about-description",
-            children: [t, " Follow my ", v.jsx("a", {
-                className: "instagram",
-                href: "https://www.instagram.com/",
-                target: "_blanket",
-                children: "Instagram"
-            }), " to see my journey."]
         }), v.jsx(Jd, {}), v.jsxs("div", {
             className: "about-experience-section",
             children: [v.jsx("h2", {
