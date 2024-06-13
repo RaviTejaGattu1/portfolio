@@ -9409,7 +9409,7 @@ function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, proj
 }
 const dc = {
     title: "About",
-    description: "Personal Statement",
+    description: "A passionate engineer curious about how software systems work, with 5 years of experience in building scalable services, leveraging various technologies and cloud platforms. I thrive on learning by doing cool projects and delivering impactful solutions.",
     experiences: [{
         date: "Aug 2022 - Present",
         title: "Title",
