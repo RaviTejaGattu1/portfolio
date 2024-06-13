@@ -9359,7 +9359,7 @@ const Kd = "modulepreload"
     }, {
         name: "Work"
     }, {
-        name: "Certifications"
+        name: "Writings"
     }]
 };
 function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, projectsRef: l, writingsRef: i}) {
@@ -9402,7 +9402,7 @@ function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, proj
                 className: "nav-links-item contact",
                 children: "Chat"
             }), v.jsx("div", {
-                className: `nav-slider ${s === 0 ? "Home" : s === 1 ? "About" : s === 2 ? "Work" : s === 3 && "Certifications"}`
+                className: `nav-slider ${s === 0 ? "Home" : s === 1 ? "About" : s === 2 ? "Work" : s === 3 && "Writings"}`
             })]
         })
     })
@@ -9492,8 +9492,8 @@ function bd() {
     })
 }
 const ep = {
-    title: "Certifications",
-    certifications: [{
+    title: "Writings",
+    writings: [{
         url: "https://www.hashnode.dev/cache-simplified-your-devices-trusted-ally",
         title: "Cache Simplified: Your Device's Trusted Ally",
         subtitle: "Uncover How Cache Speeds Up Your Computer and Its Different Types and Quirks",
@@ -9539,9 +9539,9 @@ const ep = {
 };
 function tp() {
     return v.jsxs("div", {
-        className: "certifications-container",
+        className: "writings-container",
         children: [v.jsx("h2", {
-            className: "certifications-headline",
+            className: "writings-headline",
             children: "Some of my writings"
         }), v.jsx("div", {
             className: "writings-cards-container",
