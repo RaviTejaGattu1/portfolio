@@ -9409,7 +9409,7 @@ function Zd({handleOnClick: e, scrollToSection: t, homeRef: n, aboutRef: r, proj
 }
 const dc = {
     title: "About",
-    description: "A passionate engineer curious about how software systems work, with 5 years of experience in building scalable services, leveraging various technologies and cloud platforms. I thrive on learning by doing cool projects and delivering impactful solutions.",
+    description: A passionate software engineer with 5 years of experience in full-stack development, cloud technologies, client-server protocol & API design. I have successfully delivered scalable and secure solutions for high-revenue enterprises, enhancing user experience and driving significant growth. Currently pursuing Master of Science in Computer Software Engineering at San Jose State University. I am eager to leverage my skills and experience to contribute to innovative and impactful projects.",
     experiences: [{
         date: "Aug 2022 - Present",
         title: "Title",
