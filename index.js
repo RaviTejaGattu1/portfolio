@@ -9349,8 +9349,8 @@ const Kd = "modulepreload"
         name: "blog",
         url: "https://www.hashnode.dev"
     }, {
-        name: "Linkedin",
-        url: "https://www.linkedin.com/in/iravitejag/"
+        name: "LinkedIn",
+        url: "https://www.linkedin.com/in/iravitejag"
     }],
     navigator: [{
         name: "Home"
@@ -9473,9 +9473,9 @@ function bd() {
             className: "about-description",
             children: [t, " Follow my ", v.jsx("a", {
                 className: "LinkedIn",
-                href: "https://www.linkedin.com/in/iravitejag/",
+                href: "https://www.linkedin.com/in/iravitejag",
                 target: "_blanket",
-                children: "Linkedin"
+                children: "LinkedIn"
             }), " to see my journey."]
         }), v.jsx(Jd, {}), v.jsxs("div", {
             className: "about-experience-section",
@@ -9916,7 +9916,7 @@ function cp() {
         }), v.jsxs("div", {
             className: "footer-social",
             children: [v.jsx("a", {
-                href: "https://www.linkedin.com/in/iravitejag/",
+                href: "https://www.linkedin.com/in/iravitejag",
                 target: "_blank",
                 children: v.jsx(up, {})
             }), v.jsx("a", {
