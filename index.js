@@ -9344,13 +9344,13 @@ const Kd = "modulepreload"
   , Xd = {
     socials: [{
         name: "github",
-        url: "https://github.com/"
+        url: "https://github.com/RaviTejaGattu1/"
     }, {
         name: "blog",
         url: "https://www.hashnode.dev"
     }, {
-        name: "instagram",
-        url: "https://www.instagram.com/"
+        name: "Linkedin",
+        url: "https://www.linkedin.com/in/iravitejag/"
     }],
     navigator: [{
         name: "Home"
@@ -9472,10 +9472,10 @@ function bd() {
         }), v.jsxs("p", {
             className: "about-description",
             children: [t, " Follow my ", v.jsx("a", {
-                className: "instagram",
-                href: "https://www.instagram.com/",
+                className: "LinkedIn",
+                href: "https://www.linkedin.com/in/iravitejag/",
                 target: "_blanket",
-                children: "Instagram"
+                children: "Linkedin"
             }), " to see my journey."]
         }), v.jsx(Jd, {}), v.jsxs("div", {
             className: "about-experience-section",
@@ -9920,7 +9920,7 @@ function cp() {
                 target: "_blank",
                 children: v.jsx(up, {})
             }), v.jsx("a", {
-                href: "mailto:ravitejagattu23@gmail.com",
+                href: "mailto:raviteja.gattu@sjsu.edu",
                 children: v.jsx(sp, {})
             }), v.jsx("a", {
                 href: "https://github.com/ravitejagattu1",
