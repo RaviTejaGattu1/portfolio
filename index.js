@@ -9421,7 +9421,7 @@ const dc = {
         description: "Worked with the product team to develop new features for a vacation accommodation booking platform. I also ensured that the platform works smoothly on different devices. I used BrowserStack to recreate mobile environments and gain valuable insights for the development process. Additionally, I used Pact to create API contracts with mock data, making testing and development more efficient. I had experience working in a Kanban environment.",
         technologies: ["Next.js", "TypeScript", "SCSS", "Styled Components", "Pact", "Storybook", "Ladle"]
     }],
-    skills: ["React", "Next.js", "JavaScript", "TypeScript", "HTML", "CSS", "Sass", "Tailwind", "Material-UI", "Git", "Framer-Motion", "Firebase", "Jira", "Cypress", "Playwright", "Storybook", "Styled-Components", "Zustand", "GraphQL", "GitLab", "Web Accessibility", "Nest.js", "Postman", "Insomnia", "Scrum", "Bitbucket", "Confluence"]
+    skills: ["C++", "Python", "Java", "Javascript", "TypeScript", "HTML", "CSS", "SQL","MongoDB", "DynamoDB", "MySQL", "OracleDB", "HTML5", "Express", "React.js", "Node.js", "REST API", "Django", "Angular.js", "AWS", "Docker", "GCP", "Kubernetes", "Apache Kafka", "Visual Studio", "Eclipse", "Postman", "Git", "JMeter", "Mocha", "JUnit", "Git", "Docker", "Google Cloud Platform", "Maven/Gradle", "Grafana", "Kibana", "Splunk"]
 };
 function Jd() {
     return v.jsxs("div", {
