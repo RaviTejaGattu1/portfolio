@@ -6,9 +6,7 @@
   </a>
 </p>
 
-> Personal Portfolio Creation
-
-### 🏠 [Homepage](https://ravitejagattu1.github.io/portfolio/)
+> Personal Portfolio Website Using ReactJS
 
 ### ✨ [Demo](https://ravitejagattu1.github.io/portfolio/)
 
